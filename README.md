@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Raviraj..</h1>
 <h3 align="center">I am a final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.And also an ambitious, curious and determined developer.</h3>
-<h3 align="left">.Skilled in C, JAVA. Firebase, Android Development with an interest in Open Source Domain, graduating from UPES in 2021. </h3>
+<h3 align="left">.Skilled in C, JAVA,JavaScript,HTML,CSS,Firebase,Web Development,Android Development with an interest in Open Source Domain, graduating from UPES in 2021. </h3>
  <h1 align="center">-----Trust in learning from the experience-----</h1>
 
 - I have done internship as a application Developer in @Gloopen.Inc  **Little Gems**
