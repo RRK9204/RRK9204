@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Raviraj !</h1>
 <h3 align="center">I am a Senior Embedded Software Engineer.</h3>
-<h3 align="left">.Skilled in C, C++, Python, Autosar, ISO 26262, CAN, Ethernet, Driver Development with an interest in Automotive development. </h3>
+<h3 align="left">Skilled in C, C++, Python, Autosar, ISO 26262, CAN, Ethernet, Driver Development with an interest in Automotive development. </h3>
  <h1 align="center">-----Trust in learning from the experience-----</h1>
 
 - 📫 You can reach me by  **rraviraj9204@gmail.com**
